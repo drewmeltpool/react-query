@@ -1,0 +1,19 @@
+.repo {
+    text-decoration: none;
+    color: inherit;
+    border-bottom: 1px solid #dbdbdb;
+    padding: 12px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+
+    &:hover {
+        cursor: pointer;
+        background-color: #e8f0fe;
+    }
+}
+
+.repoInfo {
+    display: flex;
+    flex-direction: column
+}

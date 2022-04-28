@@ -1,0 +1,17 @@
+.container {
+    padding: 24px;
+    margin: 0 auto;
+
+    &.sm {
+        max-width: 540px;
+    }
+    
+    &.md {
+        max-width: 960px
+    }
+    
+    &.lg {
+        max-width: 1200px;
+    }
+}
+

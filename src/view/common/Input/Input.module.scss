@@ -1,0 +1,14 @@
+.inputWrapper {
+    display: flex;
+}
+
+.input {
+    font-weight: 400;
+    color: inherit;
+    flex: 1;
+    font-size: 18px;
+    font-family: inherit;
+    padding: 12px;
+    border: 2px solid #dbdbdb;
+    border-radius: 8px;
+}

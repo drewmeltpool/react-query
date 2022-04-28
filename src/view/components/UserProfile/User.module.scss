@@ -1,0 +1,23 @@
+.profile {
+    & > *:not(:last-child) {
+        margin-bottom: 24px;
+    }
+}
+
+.profileHead {
+    display: flex;
+    padding: 24px;
+    border-radius: 12px;
+    background-color: #e8f0fe;
+}
+
+.profileInfo {
+    padding: 16px;
+
+}
+
+.profileBio {
+    padding: 24px;
+    background-color: #e8f0fe;
+    border-radius: 12px;
+}
