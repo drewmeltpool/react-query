@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atlana/static/css/main.25e4d82d.css",
+    "main.js": "/atlana/static/js/main.c4abb403.js",
+    "static/js/787.67f08705.chunk.js": "/atlana/static/js/787.67f08705.chunk.js",
+    "index.html": "/atlana/index.html",
+    "main.25e4d82d.css.map": "/atlana/static/css/main.25e4d82d.css.map",
+    "main.c4abb403.js.map": "/atlana/static/js/main.c4abb403.js.map",
+    "787.67f08705.chunk.js.map": "/atlana/static/js/787.67f08705.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25e4d82d.css",
+    "static/js/main.c4abb403.js"
+  ]
+}
