@@ -7,8 +7,8 @@ const AppRouter: React.FC = () => {
   return (
     <Routes>
       <Route element={<Layout.Common />}>
-        <Route path="" element={<Page.Home />} />
-        <Route path="/:username" element={<Page.User />} />
+        <Route path="*/:username" element={<Page.User />} />
+        <Route path="*" element={<Page.Home />} />
       </Route>
     </Routes>
   );
